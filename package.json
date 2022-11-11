@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-website-bootstrap5-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daria-Khrushch/portfolio-website-Bootstrap5-SASS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daria-Khrushch/portfolio-website-Bootstrap5-SASS/issues"
+  },
+  "homepage": "https://github.com/Daria-Khrushch/portfolio-website-Bootstrap5-SASS#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "autoprefixer": "^10.4.13",
+    "bootstrap": "^5.2.2",
+    "postcss": "^8.4.19",
+    "postcss-cli": "^10.0.0"
+  }
+}
